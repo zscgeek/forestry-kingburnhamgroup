@@ -4,7 +4,7 @@ date: 2017-11-14 10:54:31 +0000
 role:
 - staff
 thumbnail: "/uploads/2018/09/01/DC_15jul18_122.jpg"
-sub_heading: Partners
+sub_heading: Partner
 email: rj@kingburnhamgroup.com
 linkedin: ''
 layout: person
