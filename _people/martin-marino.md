@@ -4,7 +4,7 @@ date: 2017-11-14 11:08:34 +0000
 role:
 - advisor
 - board
-sub_heading: Partners
+sub_heading: Partner
 thumbnail: "/uploads/2018/09/01/DC_15jul18_020.jpg"
 email: laura@kingburnhamgroup.com
 linkedin: ''
