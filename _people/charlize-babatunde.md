@@ -5,7 +5,7 @@ role:
 - staff
 thumbnail: "/uploads/2018/09/01/DC_15jul18_122.jpg"
 sub_heading: Partners
-email: ''
+email: rj@kingburnhamgroup.com
 linkedin: ''
 layout: person
 
